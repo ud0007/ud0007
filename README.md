@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ud0007
 - 👀 I’m interested in ...Automation
-- 🌱 I’m currently learning ...DevOps
+- 🌱 I’m currently learning ...NxOpen
 - 💞️ I’m looking to collaborate on ...Learnings
 - 📫 How to reach me ...udaysathe35@gmail.com
 
